@@ -102,7 +102,7 @@ local function taskOne()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Xeart3487/ps99/refs/heads/main/2.lua'))()
 end
 local function taskTwo()
-    loadstring(game:HttpGet('loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Auto-Area-Multi-Farm-Auto-Index-16263"))()'))()
+    loadstring(game:HttpGet('loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/Scripts2024/main/ps99"))()'))()
 end
 
 task.spawn(taskOne)
